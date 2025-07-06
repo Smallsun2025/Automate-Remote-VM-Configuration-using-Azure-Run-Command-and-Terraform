@@ -1,0 +1,5 @@
+resource_group_name = "rg-runcommand-demo"
+location            = "japaneast"
+vm_name             = "winvm-runcommand"
+admin_username      = "azureuser"
+admin_password      = "Password1234!"
